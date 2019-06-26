@@ -1,4 +1,4 @@
-# micro-vue-portal
+# portal
 
 ## Project setup
 ```
